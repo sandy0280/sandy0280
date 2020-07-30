@@ -3,13 +3,13 @@
 
    I'm MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm passionate about        learning new skills and technologies..
 
-  🔭 I'm a web designer and developer 
+  🔭 I'm a web designer and developer..
 
   Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS
 
   Languages : C , C++ , JAVA ,  MySQL , Mongodb , HTML , CSS  lEARNING CONTINUES.. 
 
- 🌱 I’m currently design websites for fun..
+ 🌱 I currently design websites for fun..
 
  📫 How to reach me: ...
   Email : sandeepmishra156566@gmail.com    Linkedin : https://www.linkedin.com/in/sandeep-mishra-74ba7816a/
