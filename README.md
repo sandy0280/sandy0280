@@ -1,7 +1,7 @@
 <html>
   <body style="backgroundcolor:black;text:white">
 
-<h1>Hi,I'm Sandeep 👋</h1>
+<h1>Hi,I'm Sandeep..👨‍</h1>
   
   <h6>🔭 I'm a web designer and developer.. </h6> 
   <p>A MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm      passionate a      about learning new skills and technologies..</p>
