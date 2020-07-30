@@ -6,8 +6,8 @@
   <h6>🔭 I'm a web designer and developer.. </h6> 
   <p>A MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm      passionate a      about learning new skills and technologies..</p>
 
-  Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS
-  Languages : C , C++ , JAVA ,  MySQL , Mongodb , HTML , CSS  lEARNING CONTINUES.. 
+  <p>Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS</p><br/>
+  <p>Languages : C , C++ , JAVA ,  MySQL , Mongodb , HTML , CSS  LEARNING CONTINUES..</p> 
   
    <ul>
    <li>🌱 I currently design websites for fun..</li>
