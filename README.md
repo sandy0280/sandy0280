@@ -1,24 +1,36 @@
-### Hi,I'm Sandeep 👋
+<h1>Hi,I'm Sandeep 👋</h1>
   
-  🔭 I'm a web designer and developer..  
-  A MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm      passionate about     learning new skills and technologies..
+  <h6>🔭 I'm a web designer and developer.. </h6> 
+  <p>A MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm      passionate a      about learning new skills and technologies..</p>
 
   Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS
-  
   Languages : C , C++ , JAVA ,  MySQL , Mongodb , HTML , CSS  lEARNING CONTINUES.. 
-
-  🌱 I currently design websites for fun..
   
-  🌱 I’m currently learning nodejs
+   <ul>
+   <li>🌱 I currently design websites for fun..</li>
+   <li>🌱 I’m currently learning nodejs</li>
+   <li> 💬 Ask me about Web developnment and database</li>
+   <li>😄 Pronouns: He/him</li>
+   <li>📫 How to reach me: ...  </li>
+   <ul>
+   <li> Email : sandeepmishra156566@gmail.com </li>
+   <li> Linkedin : https://www.linkedin.com/in/sandeep-mishra-74ba7816a/ </li>
+    </ul>
+   <li>👯 Fun fact: I love trevelling. I wants to travel across the whole worl</li>
+   </ul>
+   
   
-  💬 Ask me about Web developnment and database
   
-  😄 Pronouns: He/him
   
-  📫 How to reach me: ...
-     Email : sandeepmishra156566@gmail.com    Linkedin : https://www.linkedin.com/in/sandeep-mishra-74ba7816a/
+ 
+  
+  
+  
+  
+   
      
-  👯 Fun fact: I love trevelling. I wants to travel across the whole world.
+  
+
 <!--
 **sandy0280/sandy0280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
