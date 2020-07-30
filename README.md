@@ -1,3 +1,6 @@
+<html>
+  <body style="backgroundcolor:black;text:white">
+
 <h1>Hi,I'm Sandeep 👋</h1>
   
   <h6>🔭 I'm a web designer and developer.. </h6> 
@@ -13,12 +16,13 @@
    <li>😄 Pronouns: He/him</li>
    <li>📫 How to reach me: ...  </li>
    <ul>
-   <li> Email : sandeepmishra156566@gmail.com </li>
-   <li> Linkedin : https://www.linkedin.com/in/sandeep-mishra-74ba7816a/ </li>
+   <li> 📩 : sandeepmishra156566@gmail.com </li>
+   <li> 🔗 : https://www.linkedin.com/in/sandeep-mishra-74ba7816a/ </li>
     </ul>
    <li>👯 Fun fact: I love trevelling. I wants to travel across the whole worl</li>
    </ul>
-   
+     </body>
+</html>
   
   
   
