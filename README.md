@@ -1,7 +1,6 @@
-### Hi there 👋
-    Howdy!
-
-   I'm MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm passionate about        learning new skills and technologies..
+### Hi there everyone 👋
+    
+   Myself Sandeep Mishra a MCA second-year student currently studying at Maulana Azad National institute of technology,Bhopal (MANIT). I'm a hardworking & a quick learner.I'm      passionate about learning new skills and technologies..
 
   🔭 I'm a web designer and developer..
 
