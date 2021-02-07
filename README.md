@@ -1,6 +1,6 @@
 <html>
   <body style="backgroundcolor: black; text: white">
-    #Hii, I'm Sandeep..👨‍
+    <h1>Hii, I'm Sandeep..👨‍</h1>
 
     <h4>🔭 I'm web designer and a developer.I'm looking for Internship.</h4>
     <p>
@@ -55,14 +55,4 @@
   </body>
 </html>
 
-<!--
-**sandy0280/sandy0280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  <img align= "right" src ="D:\SANDEEP IMAGES\sandeep\20190609_205154/ frame" alt="Content not available">
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-  
--->
