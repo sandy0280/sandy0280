@@ -10,11 +10,11 @@
   <h3>Languages : C, C++, COREJAVA, MySQL, Mongodb, HTML, CSS LEARNING CONTINUES..</h3> 
   
    <ul>
-   <li>🌱 I currently design websites for fun..</li>
+   <li>🌱 I currently design static websites samples for productivity and also learning new technologies.</li>
    <li>🌱 I’m currently learning nodejs</li>
    <li> 💬 Ask me about Web developnment and database</li>
    <li>😄 Pronouns: He/him</li>
-   <li>📫 How to reach me: ...  </li>
+   <li>📫 How to reach me: ... </li>
    <ul>
    <li>📞 : 9516591409</li>
    <li>📩 : sandeepmishra156566@gmail.com </li>
@@ -22,7 +22,7 @@
    <li>🔗 : <a href="https://stackoverflow.com/users/13263583/sandeep-mishra?tab=profile">stackoverflow</a></li>
    <li>🔗 : <a href="https://www.instagram.com/sandeeep_mishra_/">Instagram</a></li>
    </ul>
-   <li>👯 Fun fact: I love trevelling. I wants to travel across the whole world</li>
+   <li>👯 Fun fact: I love trevelling, I wants to travel across the whole world</li>
    </ul>
      </body>
 </html>
