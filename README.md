@@ -21,6 +21,7 @@
    <li>🔗 : <a href="https://www.linkedin.com/in/sandeep-mishra-74ba7816a/">linkedIn</a></li>
    <li>🔗 : <a href="https://stackoverflow.com/users/13263583/sandeep-mishra?tab=profile">stackoverflow</a></li>
    <li>🔗 : <a href="https://www.instagram.com/sandeeep_mishra_/">Instagram</a></li>
+     <li>🔗 : <a href="https://www.facebook.com/profile.php?id=100003234054906">Facebook</a></li>
    </ul>
    <li>👯 Fun fact: I love trevelling, I wants to travel across the whole world</li>
    </ul>
