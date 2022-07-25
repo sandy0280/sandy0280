@@ -18,7 +18,7 @@
    <ul>
    <li>📞 : 9516591409</li>
    <li>📩 : sandeepmishra156566@gmail.com </li>
-   <li>🔗 : <a href="https://www.linkedin.com/in/sandeep-mishra-74ba7816a/">linkedIn</a></li>
+   <li>🔗 : <a href="www.linkedin.com/in/sandeepmishra156566/">linkedIn</a></li>
    <li>🔗 : <a href="https://stackoverflow.com/users/13263583/sandeep-mishra?tab=profile">stackoverflow</a></li>
    <li>🔗 : <a href="https://twitter.com/SANDEEP50448451">Twitter</a></li>
    <li>🔗 : <a href="https://www.facebook.com/profile.php?id=100003234054906">Facebook</a></li>
