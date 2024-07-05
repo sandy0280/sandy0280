@@ -6,8 +6,12 @@
   <h5> I'm a Backend developer..💻💻 </h5> 
   <p>As a highly motivated MCA graduate (2021) from the Maulana Azad National Institute of Technology (MANIT) in Bhopal, I possess 3 years of experience as a backend developer. My background in computer science principles provides a solid foundation, and I'm known for my quick learning ability and passion for staying current with the latest technologies. Throughout my professional career, I've honed my skills in Node.js, Express, MySQL, MongoDB, Git, and GitHub, delivering robust and scalable backend solutions.</p>
 
-  <h3>Some of My Key skills:  Node.js, Express, Typescript, Javascript, RESTful API, MySQL, MongoDB, Data Structure & Algorithms, Version control(Git), GitHub, DBMS</h3>
-  <h3>Languages: C, C++, Javascript, NodeJS, CORE JAVA, MySQL, MongoDB, HTML, CSS, LEARNING CONTINUES..</h3> 
+ <h3>Languages and Frameworks: NodeJs (ExpressJs), Typescript, Javascript, C++, koa, RESTful API, MVC, Swagger Openapi,
+JWT Token, Problem Solving, Linux/Unix, NPM, JSON <h3>
+ <h3>Data Management Tool: MySQL, PostgreSQL, MongoDB, Redis <h3>
+ <h3>Continuous Integration and Deployment: Git, GitHub, GitLab <h3>
+ <h3>Tools: Postman, Visual Studio, JIRA, Trello, Chrome DevTools, DBeaver, PhpMyAdmin, Nginx <h3>
+ <h3>Languages: Hindi, English <h3>
   
    <ul>
    <li>🌱 I currently design static website samples for productivity and also learn new technologies in day to day life.</li>
