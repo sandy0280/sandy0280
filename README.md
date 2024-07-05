@@ -1,18 +1,17 @@
 <html>
   <body style="backgroundcolor:black;text:white">
 
-<h1>Hi,I'm Sandeep mishra 🙋‍</h1>
+<h1>Hi,I'm Sandeep Mishra 🙋‍</h1>
   
-  <h5> I'm a web designer and developer..💻💻 </h5> 
-  <p> MCA final-year student currently studying at Maulana Azad National Institute Of Technology,(MANIT), Bhopal. I'm a hardworking & a quick learner.I'm passionate a about learning new skills and technologies..</p>
+  <h5> I'm a Backend developer..💻💻 </h5> 
+  <p>As a highly motivated MCA graduate (2021) from the Maulana Azad National Institute of Technology (MANIT) in Bhopal, I possess 3 years of experience as a backend developer. My background in computer science principles provides a solid foundation, and I'm known for my quick learning ability and passion for staying current with the latest technologies. Throughout my professional career, I've honed my skills in Node.js, Express, MySQL, MongoDB, Git, and GitHub, delivering robust and scalable backend solutions.</p>
 
-  <h3>Some of My Key skills : Data Structure & Algorithms, Version control(Git), DBMS</h3>
-  <h3>Languages : C, C++, COREJAVA, MySQL, Mongodb, HTML, CSS LEARNING CONTINUES..</h3> 
+  <h3>Some of My Key skills:  Node.js, Express, Typescript, Javascript, RESTful API, MySQL, MongoDB, Data Structure & Algorithms, Version control(Git), GitHub, DBMS</h3>
+  <h3>Languages: C, C++, Javascript, NodeJS, CORE JAVA, MySQL, MongoDB, HTML, CSS, LEARNING CONTINUES..</h3> 
   
    <ul>
-   <li>🌱 I currently design static websites samples for productivity and also learning new technologies.</li>
-   <li>🌱 I’m currently learning nodejs</li>
-   <li> 💬 Ask me about Web developnment and database</li>
+   <li>🌱 I currently design static website samples for productivity and also learn new technologies in day to day life.</li>
+   <li> 💬 Ask me about Web development and database</li>
    <li>😄 Pronouns: He/him</li>
    <li>📫 How to reach me: ... </li>
    <ul>
@@ -25,7 +24,7 @@
    <li>🔗 : <a href="https://www.instagram.com/sandeeep_mishra_/">Instagram</a></li>
    
    </ul>
-   <li>👯 Fun fact: I love trevelling, I wants to travel across the whole world</li>
+   <li>👯 Fun fact: I love traveling, I want to travel across the whole world for free</li>
    </ul>
      </body>
 </html>
