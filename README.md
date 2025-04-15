@@ -1,23 +1,64 @@
-# 💫 About Me:
-Hi, I'm Sandeep Mishra 🙋‍<br>I'm a Backend Developer 💻💻<br>As a highly motivated MCA graduate from the Maulana Azad National Institute of Technology (MANIT) in Bhopal with 3 years of experience as a backend developer, I am dedicated to delivering robust and scalable backend solutions. My background in computer science principles provides a solid foundation, and I'm known for my quick learning ability and passion for staying current with the latest technologies.
+# 💫 About Me  
+Hi, I'm **Sandeep Mishra** 🙋‍♂️  
+I'm a **Backend Developer** with a passion for clean, scalable code and building impactful backend systems.  
 
-<br><br>Skills<br>Languages and Frameworks: NodeJs (ExpressJs), Typescript, Javascript, C++, koa, RESTful API, MVC, Swagger Openapi, JWT Token, Problem Solving, Linux/Unix, NPM, JSON<br>Data Management Tools: MySQL, PostgreSQL, MongoDB, Redis<br>Continuous Integration and Deployment: Git, GitHub, GitLab<br>Tools: Postman, Visual Studio, JIRA, Trello, Chrome DevTools, DBeaver, PhpMyAdmin, Nginx<br>Languages: Hindi, English<br>About Me<br>🌱 I currently design static websites for productivity and also learn new technologies in day-to-day life.<br>💬 Ask me about Web development and databases<br>😄 Pronouns: He/him<br>📫 How to reach me:<br>📞 : 9516591409<br>📩 : sandeepmishra156566@gmail.com<br>🔗 : Personal Blog<br>🔗 : LinkedIn<br>🔗 : Stack Overflow<br>🔗 : Twitter<br>🔗 : Facebook<br>🔗 : Instagram<br>👯 Fun fact: I love traveling, trekking, I want to travel across the whole world for free
+🎓 I'm an MCA graduate from **Maulana Azad National Institute of Technology (MANIT), Bhopal**, with 3 years of professional experience.  
+🚀 I'm quick to learn, always evolving with the latest tech trends, and deeply enthusiastic about solving complex problems.
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeeep_mishra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepmishra156566) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SANDEEP50448451) 
+## 🛠️ Skills & Technologies  
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandy0280&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandy0280&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy0280&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Languages & Frameworks  
+`Node.js (Express.js, Koa)` • `TypeScript` • `JavaScript` • `C++` • `EJS` • `Pug` • `Apollo GraphQL` • `JWT` • `RESTful APIs` • `MVC Architecture`
 
-### 🔝 Top Contributed Repo
+### 🗄️ Databases & Caching  
+`MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Sequelize` • `SQLite`
+
+### 🔧 DevOps & CI/CD  
+`Git` • `GitHub` • `GitLab` • `GitHub Actions` • `PowerShell` • `Linux/Unix`
+
+### ⚙️ Tools & Platforms  
+ `Postman` • `Swagger (OpenAPI)` • `Nginx` • `DBeaver` • `PhpMyAdmin`  
+`Trello` • `JIRA` • `Chrome DevTools` • `Visual Studio Code`  
+
+### 🌐 Web Technologies  
+`HTML5` • `JavaScript` • `TypeScript` • `TailwindCSS` • `SASS`
+
+---
+
+## 📬 Contact Me  
+📧 **Email**: [sandeepmishra156566@gmail.com](mailto:sandeepmishra156566@gmail.com)  
+📱 **Phone**: +91 9516591409  
+
+---
+
+## 🌐 Social Profiles  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepmishra156566)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeeep_mishra_)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SANDEEP50448451)
+
+---
+
+## 📈 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=sandy0280&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=sandy0280&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy0280&theme=dark&hide_border=false&layout=compact)
+
+### 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=sandy0280&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+## 😄 Fun Facts  
+🌱 I enjoy designing simple static websites to boost productivity.  
+✈️ I love traveling, trekking, and dream of exploring the world for free!  
+💬 Ask me about **web development** and **databases**.  
+👨‍💻 Pronouns: He/Him
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=sandy0280&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
